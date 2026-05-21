@@ -2,4 +2,4 @@
 Feel free to use or customized
 
 Launch options:
--novid +fps_max 0 +exec autoexec
+-novid +fps_max 0 +exec autoexec -high -preload
